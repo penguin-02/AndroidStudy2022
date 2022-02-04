@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
                 numberText.setTextColor(Color.parseColor("#515151"))
             }
              */
+            color(num)
             numberText.text = num.toString()
         }
 
@@ -48,7 +49,12 @@ class MainActivity : AppCompatActivity() {
         }
     }
     fun color(num : Int){
-        val numberText: TextView = 
+        val numberText: TextView = findViewById(R.id.numberText)
+        if(num %3 == 0 && num ! =0){
+            numberText.setTextColor(Color.parseColor("#ef857d"))
+        }else{
+            numberText.setTextColor(Color.parseColor("#515151"))
+        }
     }
 
 }
