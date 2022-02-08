@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="tv_msg">名前を入力してね</string>
+    <string name="cb_school">大学推奨</string>
+    <string name="cb_no_school">非大学推奨</string>
+    <string name="rg_male">男性</string>
+    <string name="rg_female">女性</string>
+    <string-array name="lv_grade">
+        <item>大学１年生</item>
+        <item>大学２年生</item>
+        <item>大学３年生</item>
+        <item>大学４年生</item>
+        <item>大学院生</item>
+        <item>その他</item>
+    </string-array>
+    <string name="bt_save">保存</string>
+    <string-array name="lv_course">
+        <item>機械工学科</item>
+        <item>航空システム工学科</item>
+        <item>ロボティクス学科</item>
+        <item>電気電子工学科</item>
+        <item>情報工学科</item>
+        <item>環境土木工学科</item>
+        <item>メディア情報学科</item>
+        <item>経営情報学科</item>
+        <item>心理科学科</item>
+        <item>建築学科</item>
+        <item>応用化学科</item>
+        <item>応用バイオ科</item>
+    </string-array>
+</resources>
