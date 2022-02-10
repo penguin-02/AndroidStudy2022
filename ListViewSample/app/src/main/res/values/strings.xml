@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListViewSample</string>
+    <string-array name="lv_menu">
+        <item>田中角栄</item>
+        <item>山本権兵衛</item>
+        <item>黒田清隆</item>
+        <item>伊藤博文</item>
+        <item>林銑十郎</item>
+        <item>岸田文雄</item>
+        <item>安倍晋三</item>
+        <item>宮沢喜一</item>
+        <item>岸信介</item>
+        <item>東条英機</item>
+        <item>佐藤栄作</item>
+        <item>東久邇宮稔彦王</item>
+        <item>菅直人</item>
+        <item>近衛文麿</item>
+    </string-array>
+</resources>
